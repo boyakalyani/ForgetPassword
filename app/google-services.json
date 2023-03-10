@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "95251794487",
+    "project_id": "forgetpassword-c04ee",
+    "storage_bucket": "forgetpassword-c04ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95251794487:android:824199206d9651bb334db2",
+        "android_client_info": {
+          "package_name": "com.example.forgetpassword"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95251794487-rvo5v18decsfuqso4iqkkr7rbf5nshvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlR_h6MUJYRkLfBL_5elBmQv-5y010_cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95251794487-rvo5v18decsfuqso4iqkkr7rbf5nshvs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
